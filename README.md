@@ -6,7 +6,7 @@ Alpha Graphics is a multipage photography portfolio website built with HTML, CSS
 
 ## 🌐 Live Demo
 
-> Coming soon — deploy via GitHub Pages, Netlify, or Vercel.
+netlify live link: https://plpfinal8.netlify.app 
 
 ---
 
